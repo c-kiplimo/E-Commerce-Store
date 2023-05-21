@@ -1,6 +1,14 @@
 # Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+# UI IMAGES
+Here are some screenshots of the user interface:
+
+- Homepage:
+  <img src="src/assets/img/homepage.jpg" alt="Homepage">
+
+- Cart:
+  <img src="src/assets/img/cart.jpg" alt="Cart">
 
 ## Development server
 
